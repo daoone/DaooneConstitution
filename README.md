@@ -20,3 +20,9 @@ V0.1版本由起草委员会共创。协作者：福君（顾问）、Emma、郭
 
 ***
 DAOONE论坛：http://forum.daoone.org/forum.php?mod=viewthread&tid=99&extra=
+
+DAOONE微信公众号:daoonecommunity
+![](images/wechat.png)
+
+加入DAOONE新手引导群，一起协作吧
+![{:class="img-responsive"}](images/daooneqq.jpeg)
