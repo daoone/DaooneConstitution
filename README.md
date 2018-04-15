@@ -3,6 +3,7 @@
 - 第二版：福君综合整理-BETA1.0版   
 - 第三版：v0.1
 
+非常欢迎你对《DAOONE章程》提出修改建议，请将建议在这里：https://github.com/daoone/DaooneConstitution/issues
 
 # v0.1更新日志
 V0.1版本由起草委员会共创。协作者：福君（顾问）、Emma、郭梦君、Martin、Blingbling、iSpacemind、小宁。主要协调人：郭梦君、Emma
